@@ -1,3 +1,11 @@
+PROJECTS
+
+https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4810413502169088
+
+
+
+
+
 # SQL Exercises
 
 Exercises to help exercise the SQL muscles.
