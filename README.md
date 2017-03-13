@@ -2,7 +2,7 @@
 
 Exercises to help exercise the SQL muscles.
 
-Base repository for the [core-sql](https://github.com/GuildCrafts/web-development-js/issues/178) goal.
+Base repository for the [core-sql](http://jsdev.learnersguild.org/goals/178) goal.
 
 ## Getting Started
 
@@ -71,3 +71,6 @@ Make sure each question is copied and pasted in the file which contains the SQL,
 
 **13:** Find the name and grade of all students who are liked by more than one other student.
 <br>Write the SQL in the file `sql/13-popular-students.sql`
+
+## Useful Resources
+- http://stackoverflow.com/questions/448023/what-is-the-difference-between-left-right-outer-and-inner-joins
